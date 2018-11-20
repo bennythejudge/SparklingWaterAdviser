@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SparklingWaterAdviser</string>
+    <string name="find_sparkling_water">Find Sparkling Water!</string>
+    <string name="brands">No sparkling water selected</string>
+    <string-array name="sparkling_water_types">
+        <item>strong</item>
+        <item>light</item>
+        <item>ferrarelle</item>
+        <item>German Strong</item>
+        <item>French Strong</item>
+        <item>Italian light</item>
+    </string-array>
+</resources>
